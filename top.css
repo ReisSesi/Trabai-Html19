@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial;
+}
+.top1{
+    margin: 0 22%;
+    padding: 30px 0;
+}
+.top2{
+    width: 100%;
+    background-image: url(capa.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px 0 400px;
+    h1,h2{
+        margin: 0 22%;
+        text-align: right;
+    }
+    h1{
+        font-size: 27px;
+    }
+    h2{
+        font-size: 25px;
+    }
+}
+.top3{
+    margin: 0 22%;
+    padding: 50px 0;
+    img{
+        width: 270px;
+        padding: 0 5px;
+    }
+    h1,p{
+        padding: 10px 0;
+    }
+}
+.top4{
+    margin: 0 22%;
+    padding: 50px 0;
+    h1,h2,p,ul{
+        padding: 5px 0;
+    }
+    h1{
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    h2{
+        font-size: 23px;
+    }
+}
+.top5{
+    margin: 0 22%;
+    padding: 50px 0;
+    h1,h2,p,ul{
+        padding: 5px 0;
+    }
+    h1{
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    h2{
+        font-size: 23px;
+    }
+}
